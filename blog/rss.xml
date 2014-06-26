@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RSS feed title</title>
+        <link>Homepage link</link>
+        <description>RSS feed description</description>
+        <lastBuildDate>Thu, 26 Jun 2014 20:10:56 +0800</lastBuildDate>
+        <language>zh-cn</language>
+        
+        <item>
+            <title>江城子</title>
+            <link>Homepage linkfirst-post.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss</link>
+            <guid>Homepage linkfirst-post.html</guid>
+            <author>Your E-mail Your name</author>
+            <pubDate>Wed, 02 Jan 2013 00:00:00 +0800</pubDate>
+            <description>&lt;h1 id=&quot;-&quot;&gt;江城子&lt;/h1&gt;
+&lt;p&gt;十年生死两茫茫，不思量，自难忘。&lt;/p&gt;
+&lt;p&gt;千里孤坟，无处话凄凉。&lt;/p&gt;
+&lt;p&gt;纵使相逢应不识，尘满面，鬓如霜。&lt;/p&gt;
+&lt;p&gt;夜来幽梦忽还乡。小轩窗，正梳妆。&lt;/p&gt;
+&lt;p&gt;相顾无言，惟有泪千行。&lt;/p&gt;
+&lt;p&gt;料得年年肠断处：明月夜，短松冈。&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>代码及数学公式示例</title>
+            <link>Homepage linksecond-post.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss</link>
+            <guid>Homepage linksecond-post.html</guid>
+            <author>Your E-mail Your name</author>
+            <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+            <description>&lt;h1 id=&quot;-&quot;&gt;这是一段代码&lt;/h1&gt;
+&lt;pre class=&quot;prettyprint linenums lang-c&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+
+int main(int argc, char** argv) {
+    printf(&amp;quot;%s\n&amp;quot;, &amp;quot;Hello, World!&amp;quot;);
+}
+&lt;/pre&gt;
+&lt;h1 id=&quot;-&quot;&gt;这是一些数学公式&lt;/h1&gt;
+&lt;p&gt;\[e^{i\pi}+1=0\]&lt;/p&gt;
+&lt;p&gt;\[\begin{pmatrix}
+  1/\sqrt{2}  &amp;amp; 1/\sqrt{2} \\
+  -1/\sqrt{2} &amp;amp; 1/\sqrt{2}
+\end{pmatrix}
+\begin{pmatrix}
+  3 \\
+  2
+\end{pmatrix}
+=
+\begin{pmatrix}
+  5/\sqrt{2} \\
+  -1/\sqrt{2}
+\end{pmatrix}\]&lt;/p&gt;
+&lt;p&gt;\[Var(a)=\frac{1}{m}\sum_{i=1}^m{(a_i-\mu)^2}\]&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>满江红</title>
+            <link>Homepage linkthird-post.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss</link>
+            <guid>Homepage linkthird-post.html</guid>
+            <author>Your E-mail Your name</author>
+            <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+            <description>&lt;h1 id=&quot;-&quot;&gt;满江红&lt;/h1&gt;
+&lt;p&gt;怒发冲冠，凭栏处，潇潇雨歇。
+抬望眼，仰天长啸，壮怀激烈。
+三十功名尘与土，八千里路云和月。
+莫等闲、白了少年头，空悲切！
+靖康耻，犹未雪。
+臣子恨，何时灭？
+驾长车，踏破贺兰山缺。
+壮志饥餐胡虏肉，笑谈渴饮匈奴血。
+待从头、收拾旧山河，朝天阙。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
