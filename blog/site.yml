@@ -1,5 +1,5 @@
-title: Title of blog
-subtitle: Subtitle of blog
+title: Xinglong Liu
+subtitle: State Key Lab of Virtual Realities and Systems
 link: Homepage link
 meta:
   description: Content of description meta tag
@@ -9,17 +9,19 @@ meta:
     - keyword3
   author: Content of author meta tag
 master:
-  name: Your name
-  about: Introduce yourself here
-  email: Your E-mail
+  name: Xinglong Liu
+  about: Dr. of Computer Science, Beihang University
+  email: liu3xing3long@163.com
 rss:
   title: RSS feed title
   desc: RSS feed description
   lang: zh-cn
   max: 10
 copyright:
-  owner: Copyrighter
-  beginYear: 2011
-  endYear: 2013
+  owner: Xinglong Liu
+  beginYear: 2014
+  endYear: 2017
+  cpimage1: beihang.jpg
+  cpimage2: vrlab.jpg
 theme: default
 codetheme: night

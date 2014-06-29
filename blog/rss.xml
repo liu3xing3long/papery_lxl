@@ -4,14 +4,14 @@
         <title>RSS feed title</title>
         <link>Homepage link</link>
         <description>RSS feed description</description>
-        <lastBuildDate>Thu, 26 Jun 2014 20:10:56 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2014 15:04:02 +0800</lastBuildDate>
         <language>zh-cn</language>
         
         <item>
             <title>江城子</title>
             <link>Homepage linkfirst-post.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss</link>
             <guid>Homepage linkfirst-post.html</guid>
-            <author>Your E-mail Your name</author>
+            <author>liu3xing3long@163.com Xinglong Liu</author>
             <pubDate>Wed, 02 Jan 2013 00:00:00 +0800</pubDate>
             <description>&lt;h1 id=&quot;-&quot;&gt;江城子&lt;/h1&gt;
 &lt;p&gt;十年生死两茫茫，不思量，自难忘。&lt;/p&gt;
@@ -27,7 +27,7 @@
             <title>代码及数学公式示例</title>
             <link>Homepage linksecond-post.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss</link>
             <guid>Homepage linksecond-post.html</guid>
-            <author>Your E-mail Your name</author>
+            <author>liu3xing3long@163.com Xinglong Liu</author>
             <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
             <description>&lt;h1 id=&quot;-&quot;&gt;这是一段代码&lt;/h1&gt;
 &lt;pre class=&quot;prettyprint linenums lang-c&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
             <title>满江红</title>
             <link>Homepage linkthird-post.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss</link>
             <guid>Homepage linkthird-post.html</guid>
-            <author>Your E-mail Your name</author>
+            <author>liu3xing3long@163.com Xinglong Liu</author>
             <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
             <description>&lt;h1 id=&quot;-&quot;&gt;满江红&lt;/h1&gt;
 &lt;p&gt;怒发冲冠，凭栏处，潇潇雨歇。
