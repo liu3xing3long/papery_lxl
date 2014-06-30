@@ -1,28 +1,26 @@
 - id: first-post
   title: 江城子 
-  postedOn: !!str 2013-01-02
+  postedOn: !!str 2014-06-30
   author: 苏轼
   tags: 
     - 宋词
     - 苏轼
-    - papery
   abstract: 十年生死两茫茫，不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜。夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处：明月夜，短松冈。
 
 - id: second-post
   title: 代码及数学公式示例 
-  postedOn: !!str 2013-01-01
-  author: papery
+  postedOn: !!str 2014-06-30
+  author: xinglong liu
   tags: 
     - 代码
     - 数学公式
-    - papery
   abstract: 这篇文章展示了如何在papery中使用代码和数学公式。 
   
 - id: third-post
   title: 满江红 
-  postedOn: !!str 2013-01-01
-  author: papery
+  postedOn: !!str 2014-06-30
+  author: 岳飞
   tags: 
     - 代码
-    - papery
+    - 诗词
   abstract:  怒发冲冠，凭栏处，潇潇雨歇。抬望眼，仰天长啸，壮怀激烈。三十功名尘与土，八千里路云和月。莫等闲、白了少年头，空悲切！靖康耻，犹未雪。臣子恨，何时灭？驾长车，踏破贺兰山缺。壮志饥餐胡虏肉，笑谈渴饮匈奴血。待从头、收拾旧山河，朝天阙。
